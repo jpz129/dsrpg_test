@@ -1,9 +1,9 @@
 # jupyter stuff
-./.ipynb_checkpoints/
+.ipynb_checkpoints/
 
 # raw data
-./data/raw/
-./data/raw/*.xlsx
+data/raw/
+data/raw/*.xlsx
 
 # general weirdness
-./.idea/
+.idea/
