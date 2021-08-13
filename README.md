@@ -1,4 +1,4 @@
-"# dsrpg_test" 🧙
+# dsrpg_test 🧙
 
 This repo is placeholder for dsrpg testing.  
 
