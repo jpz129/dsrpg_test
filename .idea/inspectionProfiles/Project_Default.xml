@@ -1,0 +1,89 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="508" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="HttpUrlsUsage" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredUrls">
+        <list>
+          <option value="http://localhost" />
+          <option value="http://127.0.0.1" />
+          <option value="http://0.0.0.0" />
+          <option value="http://www.w3.org/2000/svg" />
+          <option value="http://www.w3.org/2000/10/XMLSchema" />
+          <option value="http://www.w3.org/2001/XMLSchema" />
+          <option value="http://www.w3.org/2001/XMLSchema-instance" />
+          <option value="http://www.w3.org/2001/XInclude" />
+          <option value="http://www.w3.org/2003/03/wsdl" />
+          <option value="http://json-schema.org/draft" />
+          <option value="http://java.sun.com/xml/ns/" />
+          <option value="http://java.sun.com/jsp/" />
+          <option value="http://java.sun.com/JSP/" />
+          <option value="http://java.sun.com/j2ee/dtds/" />
+          <option value="http://java.sun.com/dtd/" />
+          <option value="http://xmlns.jcp.org/xml/ns/" />
+          <option value="http://javafx.com/javafx/" />
+          <option value="http://javafx.com/fxml" />
+          <option value="http://maven.apache.org/xsd/" />
+          <option value="http://maven.apache.org/POM/" />
+          <option value="http://www.springframework.org/schema/" />
+          <option value="http://www.springframework.org/tags" />
+          <option value="http://www.thymeleaf.org" />
+          <option value="http://www.jboss.org/j2ee/schema/" />
+          <option value="http://www.jboss.com/xml/ns/" />
+          <option value="http://www.ibm.com/webservices/xsd" />
+          <option value="http://activemq.apache.org/schema/" />
+          <option value="http://schema.cloudfoundry.org/spring/" />
+          <option value="http://schemas.xmlsoap.org/" />
+          <option value="http://schemas.android.com/" />
+          <option value="http://jakarta.apache.org/" />
+          <option value="http://cxf.apache.org/schemas/" />
+          <option value="http://ufcstats.com" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="JupyterKernelInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="31">
+            <item index="0" class="java.lang.String" itemvalue="pathspec" />
+            <item index="1" class="java.lang.String" itemvalue="bs4" />
+            <item index="2" class="java.lang.String" itemvalue="decorator" />
+            <item index="3" class="java.lang.String" itemvalue="mypy-extensions" />
+            <item index="4" class="java.lang.String" itemvalue="spacy-legacy" />
+            <item index="5" class="java.lang.String" itemvalue="ftfy" />
+            <item index="6" class="java.lang.String" itemvalue="spacy" />
+            <item index="7" class="java.lang.String" itemvalue="pyzmq" />
+            <item index="8" class="java.lang.String" itemvalue="certifi" />
+            <item index="9" class="java.lang.String" itemvalue="smart-open" />
+            <item index="10" class="java.lang.String" itemvalue="torchcontrib" />
+            <item index="11" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="12" class="java.lang.String" itemvalue="blis" />
+            <item index="13" class="java.lang.String" itemvalue="pywin32" />
+            <item index="14" class="java.lang.String" itemvalue="spacy-transformers" />
+            <item index="15" class="java.lang.String" itemvalue="tokenizers" />
+            <item index="16" class="java.lang.String" itemvalue="transformers" />
+            <item index="17" class="java.lang.String" itemvalue="sacremoses" />
+            <item index="18" class="java.lang.String" itemvalue="parso" />
+            <item index="19" class="java.lang.String" itemvalue="black" />
+            <item index="20" class="java.lang.String" itemvalue="pathy" />
+            <item index="21" class="java.lang.String" itemvalue="ipykernel" />
+            <item index="22" class="java.lang.String" itemvalue="jedi" />
+            <item index="23" class="java.lang.String" itemvalue="thinc" />
+            <item index="24" class="java.lang.String" itemvalue="spacy-alignments" />
+            <item index="25" class="java.lang.String" itemvalue="spacy-lookups-data" />
+            <item index="26" class="java.lang.String" itemvalue="coverage" />
+            <item index="27" class="java.lang.String" itemvalue="Sphinx" />
+            <item index="28" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="29" class="java.lang.String" itemvalue="awscli" />
+            <item index="30" class="java.lang.String" itemvalue="flake8" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
